@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F6F1-7D05
+
+ Directory of C:\Users\Amandeep\Desktop\JavaProject
+
+10/04/2019  12:26 PM    <DIR>          .
+10/04/2019  12:26 PM    <DIR>          ..
+10/04/2019  12:23 PM               415 Hello.class
+10/04/2019  12:02 PM               109 hello.java
+10/04/2019  12:26 PM                 0 read.txt
+               3 File(s)            524 bytes
+               2 Dir(s)  429,418,254,336 bytes free
